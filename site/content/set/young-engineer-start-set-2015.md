@@ -177,7 +177,7 @@ parts:
     name: ROK Star Controller
     color: yellow
   - qty: 1
-    name: X2 Power Unit
+    name: X2 Dual Drive Power Unit
     color: orange
     desc: Rokstar
 ---

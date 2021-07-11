@@ -83,7 +83,7 @@ parts:
     name: Worker/Figure
     color: yellow
   - qty: 1
-    name: RC Skiptrack
+    name: RC Skip Track
     color: white
   - qty: 1
     name: Box/Bin Rack
@@ -119,7 +119,6 @@ parts:
   - qty: 2
     name: Corner Chute (Left)
     color: yellow
-
 ---
 The easiest way to get your start in Rokenbok!
 

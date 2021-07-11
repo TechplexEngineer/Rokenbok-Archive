@@ -1,9 +1,9 @@
 ---
 cmseditable: true
 draft: false
-title: Barrel Sorter
+title: Dozer Ramp
 description: ""
 cadfiles:
 images: []
-thumb: img/parts/barrel-sorter.jpg
+thumb: /img/parts/ramp-dozer.jpg
 ---

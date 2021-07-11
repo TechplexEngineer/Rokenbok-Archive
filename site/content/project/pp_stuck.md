@@ -11,11 +11,11 @@ As the [Piston Plant](https://roklink.net/set/piston-plant-1999/) gets older, yo
 
 First, remove the swing arm.
 
-Second, your going to need to remove all the screws from the underside. A few are hidden on the sides. Be sure to use a small screw driver, because the screws will strip easily if your mean to them. 
+Second, you're going to need to remove all the screws from the underside. A few are hidden on the sides. Be sure to use a small screw driver, because the screws will strip easily if you're mean to them. 
 
 {{< figure src="/cms/pp_before.jpg" alt="The bottom of the Piston Plant" title="The bottom of the Piston Plant" width="500px">}}
 
-Remove the long shaft that runs down the center. Apply grease where it makes contact with the plastic shell. Also apply some to the wheels. This is also a good oppertunity to clean up whatever garbage has made it's way inside of the assembly. 
+Remove the long shaft that runs down the center. Apply grease where it makes contact with the plastic shell. Also apply some to the wheels. This is also a good oppertunity to clean up whatever garbage has made its way inside of the assembly. 
 
 {{< figure src="/cms/pp_exploded1.jpg" alt="Piston Plant main assembly deconstructed" title="Piston Plant main assembly deconstructed" width="500px">}}
 

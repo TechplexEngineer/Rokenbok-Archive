@@ -35,24 +35,28 @@ parts:
   - qty: 1
     name: RC Transgripper
     color: green
+	
   - qty: 1
     name: Trailer
     color: green
+	
   - qty: 2
     name: Handrail/Railing
     color: green
+	
   - qty: 1
     name: Dump Bin
     color: white
+	
   - qty: 2
     name: Barrel
     color: orange
+	
   - qty: 5
     name: 16mm Red ROK
     color: red
+	
   - qty: 5
     name: 19mm Blue ROK
     color: blue
-
-
 ---

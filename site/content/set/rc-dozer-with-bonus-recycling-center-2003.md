@@ -83,7 +83,7 @@ parts:
     color: light gray
     
   - qty: 1
-    name: Recycling Center Ramp
+    name: Dozer Ramp
     color: gray
     
   - qty: 1

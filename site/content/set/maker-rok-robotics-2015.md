@@ -144,7 +144,7 @@ parts:
     name: Cog
     color: blue
   - qty: 1
-    name: Snap-in Seat
+    name: Snap-in Cockpit
     color: gray
   - qty: 1
     name: Worker/Figure

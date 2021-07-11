@@ -1,9 +1,9 @@
 ---
 cmseditable: true
 draft: false
-title: Barrel Sorter
+title: ROK Star Controller
 description: ""
 cadfiles:
 images: []
-thumb: img/parts/barrel-sorter.jpg
+thumb: /img/parts/rok-star-controller.jpg
 ---

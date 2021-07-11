@@ -1,8 +1,9 @@
 ---
 cmseditable: true
 draft: false
-title: Clip on Sorter
+title: Roof
+description: ""
 cadfiles:
 images: []
-thumb: img/parts/clip-on-sorter.jpg
+thumb: /img/parts/roof.jpg
 ---

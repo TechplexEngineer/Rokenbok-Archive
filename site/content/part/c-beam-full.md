@@ -1,8 +1,8 @@
 ---
 cmseditable: true
 draft: false
-title: Barricade
+title: Full C-Beam
 cadfiles: []
 images: []
-thumb: img/parts/barricade.jpg
+thumb: img/parts/c-beam-full.jpg
 ---
