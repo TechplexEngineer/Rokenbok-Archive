@@ -87,7 +87,7 @@ parts:
     color: gray
     
   - qty: 1
-    name: Recycling Center Large Scoop
+    name: Back Stop
     color: green
 
   - qty: 1
@@ -103,7 +103,7 @@ parts:
     color: metal
     
   - qty: 1
-    name: Recycling Center Small Scoop
+    name: Small Back Stop
     color: green
     
   - qty: 1

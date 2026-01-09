@@ -4,8 +4,8 @@ title: Inside Curved Chute
 description: ""
 cadfiles:
   - name: Inside Curved Chute
-    creator: Rokenbok kid*spark
-    link: https://www.thingiverse.com/thing:325250
+    creator: PurpledBanana
+    link: https://www.printables.com/model/1475818-rokenbok-inside-curved-chute-fixed-separate-door-a
 
 thumb: /img/parts/inside-curved-chute.jpg
 ---

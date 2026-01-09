@@ -4,8 +4,8 @@ title: Straight Chute
 description: ""
 cadfiles:
   - name: Straight Chute
-    creator: Rokenbok kid*spark
-    link: https://www.thingiverse.com/thing:329403
+    creator: PurpledBanana
+    link: https://www.printables.com/model/1461674-rokenbok-straight-chute-fixed-separate-door-and-ch
 
 thumb: /img/parts/straight-chute.jpg
 ---

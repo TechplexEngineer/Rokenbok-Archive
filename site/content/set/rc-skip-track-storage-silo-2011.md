@@ -79,7 +79,7 @@ parts:
     name: 2x3 ROK Block
     color: gray
   - qty: 1
-    name: Recycling Center Small Scoop
+    name: Small Back Stop
     color: gray
   - qty: 1
     name: Snap-on Trailer Hitch
