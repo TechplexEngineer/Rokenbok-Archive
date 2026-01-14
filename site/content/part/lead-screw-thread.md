@@ -1,8 +1,7 @@
 ---
-title: Spool
+title: Lead Screw, Thread
 
 description: "Available for sale at https://go.kidsparkeducation.org/replacement-parts"
-cadfiles:
 
-thumb: /img/parts/spool.png
+thumb: /img/parts/lead-screw-extender.jpg
 ---

@@ -1,8 +1,8 @@
 ---
-title: Long Ramp
+title: Long Ramp, Studs
 
 otherNames:
-    Long Ramp, Studs
+    Long Ramp
 
 description: ""
 cadfiles:
