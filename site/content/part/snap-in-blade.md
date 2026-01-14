@@ -1,14 +1,11 @@
 ---
-title: Snap-in Cockpit
+title: Snap-in Blade
 
 description: ""
 cadfiles:
-  - name: Snap-in Cockpit
-    creator: Rokenbok kid*spark
-    link: https://www.thingiverse.com/thing:322728
   - name: Rokbot Parts
     creator: Breaker
     link: https://www.printables.com/model/1425569-rokenbok-rokbot-cockpit-dozer-blade-small-and-larg
 
-thumb: /img/parts/snap-in-cockpit.jpg
+thumb: /img/parts/rokbot-parts.jpg
 ---

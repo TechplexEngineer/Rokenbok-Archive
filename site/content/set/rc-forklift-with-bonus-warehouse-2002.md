@@ -106,8 +106,11 @@ parts:
     name: Roof
     color: yellow
   - qty: 1
-    name: Forks
+    name: Forklift Face
     color: red
+  - qty: 2
+    name: Forks
+    color: gray
   - qty: 1
     name: RC Forklift
     color: yellow

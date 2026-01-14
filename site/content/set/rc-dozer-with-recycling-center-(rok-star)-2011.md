@@ -66,7 +66,7 @@ parts:
     name: Rokenbok Tool
     color: metal
   - qty: 1
-    name: Recycling Center Small Scoop
+    name: Small Back Stop
     color: green
   - qty: 1
     name: Tall Sign

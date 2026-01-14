@@ -4,8 +4,8 @@ title: Outside Curved Chute
 description: ""
 cadfiles:
   - name: Outside Curved Chute
-    creator: Rokenbok kid*spark
-    link: https://www.thingiverse.com/thing:325247
+    creator: PurpledBanana
+    link: https://www.printables.com/model/1475850-rokenbok-outside-curved-chute-fixed-separate-doors
 
 thumb: /img/parts/outside-curved-chute.jpg
 ---
