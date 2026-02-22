@@ -7,5 +7,5 @@ cadfiles:
     creator: Rokenbok kid*spark
     link: https://www.thingiverse.com/thing:322767
 
-thumb: /img/parts/double-snap-block.png
+thumb: /img/parts/mini-curved-beam.png
 ---
