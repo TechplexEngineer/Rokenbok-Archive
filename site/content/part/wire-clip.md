@@ -1,5 +1,5 @@
 ---
-title: Window
+title: Wire Clip
 
 description: ""
 cadfiles:
