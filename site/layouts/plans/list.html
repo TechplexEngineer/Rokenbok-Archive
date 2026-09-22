@@ -29,6 +29,17 @@
   {{ end }}
 
   <section class="mb-4">
+    <h2>Sets Without Plans</h2>
+    <ul>
+      {{ range where .Site.RegularPages "Section" "set" }}
+        {{ if not .Params.plans }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </section>
+
+  <section class="mb-4">
     <h2>Unlinked Plans</h2>
     <ul>
       {{ range readDir "static/plans" }}
