@@ -63,9 +63,23 @@
 
 
   <div class="container">
+    <div class="d-flex flex-wrap align-items-center gap-2 mb-4" aria-label="Filter parts by 3D model availability">
+      <span class="fw-semibold me-1">Show:</span>
+      <div class="btn-group" role="group" aria-label="3D model filter">
+        <input type="radio" class="btn-check" name="part-3d-filter" id="part-filter-all" value="all" autocomplete="off" checked>
+        <label class="btn btn-outline-primary" for="part-filter-all">All</label>
+
+        <input type="radio" class="btn-check" name="part-3d-filter" id="part-filter-has-3d" value="has-3d" autocomplete="off">
+        <label class="btn btn-outline-primary" for="part-filter-has-3d">Has 3D</label>
+
+        <input type="radio" class="btn-check" name="part-3d-filter" id="part-filter-no-3d" value="no-3d" autocomplete="off">
+        <label class="btn btn-outline-primary" for="part-filter-no-3d">No 3D</label>
+      </div>
+    </div>
+
     <div class="row">
       {{ range .Pages.ByParam "year" }}
-      <div class="col-md-3 mb-4">
+      <div class="col-md-3 mb-4 part-card" data-3d-filter="{{ if .Params.cadfiles }}has-3d{{ else }}no-3d{{ end }}">
 
         <div class="card h-100">
           <div class="card-body d-flex flex-column">
@@ -126,6 +140,8 @@
       {{$PartSetDict.Delete .Title}}
       {{ end }}
     </div>
+
+    <p class="d-none text-muted" id="parts-filter-empty" role="status">No parts match this filter.</p>
 
     <hr>
 
@@ -215,5 +231,27 @@
     {{ end }}
 
   </div>
+
+  <script>
+    (() => {
+      const filters = document.querySelectorAll('input[name="part-3d-filter"]');
+      const cards = document.querySelectorAll('.part-card');
+      const emptyMessage = document.getElementById('parts-filter-empty');
+
+      filters.forEach((filter) => {
+        filter.addEventListener('change', () => {
+          let visibleCards = 0;
+
+          cards.forEach((card) => {
+            const visible = filter.value === 'all' || card.dataset['3dFilter'] === filter.value;
+            card.classList.toggle('d-none', !visible);
+            visibleCards += visible ? 1 : 0;
+          });
+
+          emptyMessage.classList.toggle('d-none', visibleCards > 0);
+        });
+      });
+    })();
+  </script>
 
 {{end}}
