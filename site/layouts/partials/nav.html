@@ -1,16 +1,29 @@
-<nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
-  <a class="navbar-brand" href="#">RokLink</a>
+<header class="site-header">
+  <div class="container site-header-inner">
+    <a class="brand-lockup" href="/" aria-label="RokLink home">
+      <span class="brand-name">ROKENBOK</span>
+      <span class="brand-subtitle">SYSTEM ARCHIVE</span>
+    </a>
+    <div class="header-copy">REAL CONSTRUCTION &amp; REAL RC <span class="header-dot">●</span> ROKLINK.NET</div>
+    <div class="header-status"><span class="status-light"></span> ARCHIVE ONLINE</div>
+  </div>
+  <nav class="navbar navbar-expand-md navbar-dark retro-nav">
+    <div class="container">
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarCollapse">
     <ul class="navbar-nav me-auto">
+      <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
       {{ range .Site.Data.nav }}
-        <li class="nav-item active">
+        <li class="nav-item">
           <a class="nav-link" href="/{{.route}}">{{.name}}</a>
         </li>
         <!-- <li><a href="/{{.route}}" class="pa3 no-underline db">{{.name}}</a></li> -->
       {{ end }}
     </ul>
+    <span class="nav-callout">BUILD • COLLECT • SHARE</span>
   </div>
-</nav>
+  </div>
+  </nav>
+</header>

@@ -1,14 +1,11 @@
 <!doctype html>
 <html lang="{{ $.Site.Language.Lang }}" class="h-100">
   {{ partial "head" . }}
-  <body class="d-flex flex-column h-100">
-    <!-- Begin page content -->
-
-  <body class="d-flex flex-column h-100">
+  <body class="d-flex flex-column h-100 rok-body">
 
     {{ block "header" . }}{{ partial "nav" . }}{{end}}
 
-    <main role="main" class="flex-shrink-0">
+    <main role="main" class="flex-shrink-0 rok-main">
     {{ block "main" . }}{{ end }}
     </main>
 

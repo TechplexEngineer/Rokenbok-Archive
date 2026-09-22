@@ -2,18 +2,20 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" .Title "subtitle" .Params.subtitle) }}
 
-<div class="container">
+<div class="container archive-intro">
 
-  <h1>Browse Rokenbok</h1>
+  <div class="section-heading"><span>01</span><h2>Browse the archive</h2><i></i></div>
+  <p class="section-lede">Sets, parts, plans, and community builds from the world of Rokenbok.</p>
 
-  <div class="row mt-3">
-    {{ range (where .Site.Data.nav "type" "primary") }}
-    <div class="col">
-      <a href="/{{.route}}" class="card">
+  <div class="row mt-3 archive-tiles">
+    {{ range $index, $item := (where .Site.Data.nav "type" "primary") }}
+    <div class="col-md-3 mb-4">
+      <a href="/{{ $item.route }}" class="card archive-tile">
         <div class="card-body" style="text-align: center;">
-          <h2 class="card-title">{{.name}} &#8250;</h2>
-          <h5 class="card-subtitle mb-2 text-muted">
-            {{ len (where $.Site.RegularPages "Section" "==" .route) }} items
+          <span class="tile-index">0{{ add $index 1 }}</span>
+          <h2 class="card-title">{{ $item.name }} <span>→</span></h2>
+          <h5 class="card-subtitle mb-2">
+            {{ len (where $.Site.RegularPages "Section" "==" $item.route) }} items
           </h5>
         </div>
       </a>
