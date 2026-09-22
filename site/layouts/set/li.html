@@ -17,15 +17,15 @@
 
 					<span title="Part Count">{{ $partCount }}</span>
 				</span>
-				<span class="col text-right">{{ delimit .Params.skus ", " }}</span>
+				<span class="col text-end">{{ delimit .Params.skus ", " }}</span>
 			</h5>
 			<div class="card-text d-inline mb-2">
-				<div class="crop float-left mr-3">
+				<div class="crop float-start me-3">
 					<img src="{{ .Params.thumb }}" alt="{{ .Title }}" style="max-width: 200px">
 				</div>
 				{{ .Description }}
 			</div>
-			<a href="{{ .RelPermalink }}" class="mt-auto ml-auto btn btn-primary float-right">Read more →</a>
+			<a href="{{ .RelPermalink }}" class="mt-auto ms-auto btn btn-primary float-end">Read more →</a>
 		</div>
 	</div>
 

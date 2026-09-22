@@ -85,7 +85,7 @@
                   {{end}}
 
               </span>
-              <span class="col text-right">
+              <span class="col text-end">
                 {{with .Params.cadfiles}}
                   {{if gt (len .) 0}}
                   <span title="3D Model Available">3D</span>
@@ -97,7 +97,7 @@
               </span>
             </h5>
             <div class="card-text d-inline mb-2">
-              <div class="crop float-left mr-3">
+              <div class="crop float-start me-3">
                 <img src="{{ .Params.thumb }}" alt="{{ .Title }}" style="max-width: 200px">
               </div>
 
@@ -117,7 +117,7 @@
               */}}
 
             </div>
-            <a href="{{ .RelPermalink }}" class="mt-auto ml-auto btn btn-primary float-right">About →</a>
+            <a href="{{ .RelPermalink }}" class="mt-auto ms-auto btn btn-primary float-end">About →</a>
           </div>
         </div>
 
@@ -178,11 +178,11 @@
                   sets
                   {{end}}
                 </span>
-                <span class="col text-right">
+                <span class="col text-end">
                 </span>
               </h5>
               <div class="card-text d-inline mb-2">
-                <div class="crop float-left mr-3">
+              <div class="crop float-start me-3">
                   <img src="/img/parts/{{$partName | lower | urlize}}.jpg" alt="{{ $partName }}" style="max-width: 200px">
                 </div>
                 <table class="table table-striped table-bordered">

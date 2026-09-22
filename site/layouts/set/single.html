@@ -26,7 +26,7 @@
 
         <span title="Part Count">{{ $partCount }}</span>
       </div>
-      <div class="col text-right">
+      <div class="col text-end">
         {{range .Params.skus}}
           <a href="/skus/{{.|urlize}}" title="See other sets with this SKU">{{.}}</a>
         {{end}}
@@ -40,7 +40,7 @@
         <img
           src="{{ .Params.thumb }}"
           alt="{{ $.Title }}"
-          class="float-left"
+          class="float-start"
           style="max-width: 200px; margin-right: .5rem;" />
       {{ end }}
       <p>{{ .Description }}</p>
