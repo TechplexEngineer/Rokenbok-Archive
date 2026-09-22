@@ -12,7 +12,7 @@ skus:
 video: ""
 plans:
   - name: Young Engineer Ss
-    link: /plans/04129_young_engineer_ss.pdf
+    link: https://github.com/TechplexEngineer/Rokenbok-Archive/blob/master/site/static/plans/04129_young_engineer_ss.pdf
 images:
   - /img/sets/04129_young_engineer_ss_2.jpg
   - /img/sets/04129_young_engineer_ss_3.jpg
