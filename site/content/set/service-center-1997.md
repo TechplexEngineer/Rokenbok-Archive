@@ -53,9 +53,8 @@ parts:
     color: blue
   - qty: 1
     name: Flag
-    desc: Rokenbok
+    desc: Rokenbok v2
     color: red
-    desc: v2
   - qty: 1
     name: Lamp
     color: green

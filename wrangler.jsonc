@@ -1,6 +1,9 @@
 {
   "name": "rokenbok-archive",
   "compatibility_date": "2026-09-21",
+  "build": {
+    "command": "hugo --source site --destination public"
+  },
   "assets": {
     "directory": "public"
   }

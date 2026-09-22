@@ -36,8 +36,7 @@ parts:
     color: white
   - qty: 2
     name: Flag
-    desc: Rokenbok
+    desc: Rokenbok v2
     color: red
-    desc: v2
 
 ---
