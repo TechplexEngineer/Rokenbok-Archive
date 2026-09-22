@@ -11,7 +11,10 @@
   name: Projects
   type: primary
 
+- route: plans
+  name: Plans
+  type: primary
+
 - route: about
   name: About
   type: notPrimary
-

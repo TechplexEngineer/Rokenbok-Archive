@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" .Title) }}
+
+<div class="container plans-page">
+  <h2>Plans by Set</h2>
+
+  {{ $linkedFiles := slice }}
+  {{ range where .Site.RegularPages "Section" "set" }}
+    {{ with .Params.plans }}
+      {{ range . }}
+        {{ $linkedFiles = $linkedFiles | append (path.Base .link) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ range where .Site.RegularPages "Section" "set" }}
+    {{ $set := . }}
+    {{ with .Params.plans }}
+      <section class="mb-4">
+        <h3><a href="{{ $set.RelPermalink }}">{{ $set.Title }}</a></h3>
+        <ul>
+          {{ range . }}
+            <li><a href="{{ .link }}" target="_blank" rel="noopener">{{ .name }}</a></li>
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
+  {{ end }}
+
+  <section class="mb-4">
+    <h2>Unlinked Plans</h2>
+    <ul>
+      {{ range readDir "static/plans" }}
+        {{ if and (not .IsDir) (not (in $linkedFiles .Name)) }}
+          <li><a href="/plans/{{ .Name }}" target="_blank" rel="noopener">{{ replaceRE "\\.pdf$" "" .Name | humanize }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </section>
+</div>
+
+{{ end }}
