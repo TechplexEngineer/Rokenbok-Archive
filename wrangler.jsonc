@@ -6,9 +6,6 @@
     "cwd": "site"
   },
   "assets": {
-    "directory": "public",
-    "exclude": [
-      "plans/04129_young_engineer_ss.pdf"
-    ]
+    "directory": "public"
   }
 }
