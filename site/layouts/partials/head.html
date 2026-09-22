@@ -2,10 +2,7 @@
 
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
 
-	{{ $stylesheet := .Site.Data.webpack.main }}
-	{{ with $stylesheet.css }}
-		<link href="{{ relURL . }}" rel="stylesheet">
-	{{ end }}
+	<link href="{{ "vendor/bootstrap/bootstrap.min.css" | relURL }}" rel="stylesheet">
 
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">

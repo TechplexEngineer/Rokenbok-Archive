@@ -14,9 +14,7 @@
 
     {{ block "footer" . }}{{ partialCached "footer" . }}{{end}}
 
-    {{ $script := .Site.Data.webpack.main }}
-    {{ with $script.js }}
-      <script src="{{ relURL . }}"></script>
-    {{ end }}
+    <script src="{{ "vendor/jquery/jquery.min.js" | relURL }}"></script>
+    <script src="{{ "vendor/bootstrap/bootstrap.bundle.min.js" | relURL }}"></script>
   </body>
 </html>
