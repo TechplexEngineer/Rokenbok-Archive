@@ -67,7 +67,7 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
-    "bootstrap": "^4.5.3",
+    "bootstrap": "^5.3.8",
     "datatables": "^1.10.18",
     "datatables.net-bs4": "^1.10.22",
     "jquery": "^3.6.0",

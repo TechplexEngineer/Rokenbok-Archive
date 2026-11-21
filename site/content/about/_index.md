@@ -7,9 +7,6 @@ tiles:
     items:
       - CR12 (list of Rokenbok sets)
       - {name: "MrWonka (projects & archiving)", url: "https://mrwonka.com/"}
-  - heading: More Rokenbok sites
-    links:
-      - {name: "Rokenbok.info", url: "https://rokenbok.info/"}
 ---
 ## About Rokenbok
 

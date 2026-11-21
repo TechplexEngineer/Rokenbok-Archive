@@ -2,7 +2,7 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" .Params.title "subtitle" .Params.subtitle ) }}
 
-<div class="container">
+<div class="container project-list">
 	<div class="row">
 		{{ range (.Paginator 150).Pages.ByParam "year" }}
 			<div class="col">
