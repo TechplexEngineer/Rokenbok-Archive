@@ -7,9 +7,9 @@ otherNames:
 
 description: ""
 cadfiles:
-  - name: Optimized Cube & C-Cube
+  - name: Optimized Beam Master Pack
     creator: Breaker
-    link: https://www.printables.com/model/1616849-rokenbok-cubes-regular-c
+    link: https://www.printables.com/model/1792983-rokenbok-beamblock-master-pack
   - name: Single Block/Cube
     creator: Rokenbok kid*spark
     link: https://www.thingiverse.com/thing:325276
