@@ -7,6 +7,11 @@ tiles:
     items:
       - CR12 (list of Rokenbok sets)
       - {name: "MrWonka (projects & archiving)", url: "https://mrwonka.com/"}
+      - Breaker, Purpled Banana, Rob Lockwood, MaveriK, and LimeSlice (3D modeling efforts)
+      - SM3TH (3D modeling documentation)
+  - heading: More Rokenbok sites
+    links:
+      - {name: "Rokenbok.info", url: "https://rokenbok.info/"}
 ---
 ## About Rokenbok
 
