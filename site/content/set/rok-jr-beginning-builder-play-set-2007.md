@@ -53,7 +53,7 @@ parts:
     name: Support Column
     color: yellow
   - qty: 2
-    name: Jr Base
+    name: Dispenser Base Plate
     color: black
   - qty: 2
     name: Jr Roadway Turn

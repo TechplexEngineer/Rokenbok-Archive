@@ -3,6 +3,9 @@ title: Double Snap Block
 
 description: ""
 cadfiles:
+  - name: Optimized Beam Master Pack
+    creator: Breaker
+    link: https://www.printables.com/model/1792983-rokenbok-beamblock-master-pack
   - name: Double Snap Block (Optimized)
     creator: Rob Lockwood
     link: https://makerworld.com/en/models/2419983-rokenbok-single-snap-cube#profileId-2653941
