@@ -51,9 +51,8 @@ parts:
     color: green
   - qty: 1
     name: Flag
-    desc: Rokenbok
+    desc: Rokenbok v2
     color: red
-    desc: v2
   - qty: 1
     name: Rokenbok Tool
     color: metal

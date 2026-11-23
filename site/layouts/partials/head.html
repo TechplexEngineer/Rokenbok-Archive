@@ -2,15 +2,13 @@
 
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
 
-	{{ $stylesheet := .Site.Data.webpack.main }}
-	{{ with $stylesheet.css }}
-		<link href="{{ relURL . }}" rel="stylesheet">
-	{{ end }}
+	<link href="{{ "vendor/bootstrap/bootstrap.min.css" | relURL }}" rel="stylesheet">
+	<link href="{{ "css/site.css" | relURL }}" rel="stylesheet">
 
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-	<base href='{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}'>
+	<base href="{{ $.Site.BaseURL }}">
 
 	<!-- Favicons -->
 	<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico" sizes="32x32">

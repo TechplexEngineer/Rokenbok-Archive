@@ -103,7 +103,7 @@ parts:
     name: Worker/Figure
     color: blue/yellow
   - qty: 2
-    name: Jr Base
+    name: Dispenser Base Plate
     color: black
   - qty: 1
     name: Snap-on Trailer Hitch

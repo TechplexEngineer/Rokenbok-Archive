@@ -8,23 +8,20 @@
 	}
 </style>
 
-<div class="card">
+<div class="card project-card">
 	<div class="card-body">
 		<h4 class="card-title">{{ .Title }}</h4>
 		<h5 class="card-subtitle mb-2 text-muted row">
 			<span class="col">by {{ .Params.authors }}</span>
-			<span class="col text-right">{{ dateFormat "Jan 2, 2006" .Params.date }}</span>
+		<span class="col text-end">{{ dateFormat "Jan 2, 2006" .Params.date }}</span>
 		</h5>
-		<div class="crop float-left mr-2">
+		<div class="crop float-start me-2">
 			<img src="{{ .Params.thumb }}" alt="{{ .Title }}" style="max-width: 200px">
 		</div>
 		<p class="card-text">
 			{{ .Description }}
 		</p>
-		<a href="{{ .RelPermalink }}" class="btn btn-primary float-right">Read more →</a>
+		<a href="{{ .RelPermalink }}" class="btn btn-primary float-end">Read more →</a>
 	</div>
 </div>
-
-
-
 

@@ -1,10 +1,10 @@
 {
-  "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "rokenbok-archive",
-  "compatibility_date": "2026-09-16",
+  "compatibility_date": "2026-09-21",
+  "build": {
+    "command": "hugo --source site --destination ../public"
+  },
   "assets": {
-    "directory": "./dist",
-    "html_handling": "auto-trailing-slash",
-    "not_found_handling": "404-page"
+    "directory": "public"
   }
 }

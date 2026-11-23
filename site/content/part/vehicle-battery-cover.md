@@ -1,5 +1,5 @@
 ---
-title: Vehicle Battery Cover (No guides)
+title: Vehicle Battery Cover
 
 description: ""
 cadfiles:
