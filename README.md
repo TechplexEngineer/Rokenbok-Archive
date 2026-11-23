@@ -1,29 +1,28 @@
-# Hugo template for Netlify CMS with Netlify Identity
+# Rokenbok Archive
 
-This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
+This is a static Hugo archive site, bundled with Webpack and deployed to Cloudflare Workers Static Assets.
 
 ## Getting started
 
-Use our deploy button to get your own copy of the repository. 
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
-
-This will setup everything needed for running the CMS:
-
-* A new repository in your GitHub account with the code
-* Full Continuous Deployment to Netlify's global CDN network
-* Control users and access with Netlify Identity
-* Manage content with Netlify CMS
-
-Once the initial build finishes, you can invite yourself as a user. Go to the Identity tab in your new site, click "Invite" and send yourself an invite.
-
-Now you're all set, and you can start editing content!
+The former Netlify CMS and Netlify Identity integration are disabled. Content changes are made directly in this repository and deployed through Cloudflare.
 
 ## Local Development
 
 Clone this repository, and run `yarn` or `npm install` from the new folder to install all required dependencies.
 
 Then start the development server with `yarn start` or `npm start`.
+
+## Cloudflare Workers deployment
+
+The Workers configuration in `wrangler.jsonc` publishes the generated `dist/` directory as static assets. It retains Hugo's URL structure and custom `404.html` page.
+
+1. Authenticate once with `npx wrangler login`.
+2. Run `npm run deploy` to build and deploy the Worker named `rokenbok-archive`.
+3. In the Cloudflare dashboard, add a custom domain to that Worker when the deployment is ready to receive production traffic.
+
+Use `npm run cf:dev` to build and preview the Worker locally. Use `npm run deploy:dry-run` to validate the deployment configuration without publishing it.
+
+The project targets Node 12 as declared in `.nvmrc`; use a compatible runtime to build this legacy Webpack/Node Sass toolchain.
 
 ## Layouts
 

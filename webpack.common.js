@@ -3,12 +3,10 @@ const path = require("path");
 const CopyWebpackPlugin = require("copy-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const AssetsPlugin = require("assets-webpack-plugin");
-const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
   entry: {
     main: path.join(__dirname, "src", "index.js"),
-    cms: path.join(__dirname, "src", "js", "cms.js"),
   },
 
   output: {
@@ -48,10 +46,5 @@ module.exports = {
         flatten: true
       }
     ]),
-    new HtmlWebpackPlugin({
-      filename: 'admin/index.html',
-      template: 'src/cms.html',
-      inject: false,
-    }),
   ]
 };

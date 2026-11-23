@@ -17,7 +17,10 @@
     "build:preview": "npm run build:webpack && npm run build:hugo:preview",
     "build:hugo": "hugo -d ../dist -s site -v",
     "build:hugo:preview": "npm run build:hugo -- -D -F",
-    "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
+    "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js",
+    "cf:dev": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy",
+    "deploy:dry-run": "npm run build && wrangler deploy --dry-run"
   },
   "author": "",
   "license": "MIT",
@@ -45,7 +48,6 @@
     "hugo-bin": "^0.63.0",
     "imports-loader": "^0.8.0",
     "mini-css-extract-plugin": "^0.11.0",
-    "netlify-cms-app": "^2.9.6",
     "node-sass": "^4.10.0",
     "npm-run-all": "^4.1.5",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
@@ -64,7 +66,8 @@
     "webpack": "^4.37.0",
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.10",
-    "webpack-merge": "^4.1.4"
+    "webpack-merge": "^4.1.4",
+    "wrangler": "^4.132.0"
   },
   "dependencies": {
     "bootstrap": "^4.5.3",
