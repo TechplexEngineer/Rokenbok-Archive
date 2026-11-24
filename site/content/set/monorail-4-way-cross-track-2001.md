@@ -1,6 +1,6 @@
 ---
 title: Monorail 4-Way Cross Track
-year: 2001
+year: "2001"
 description: >-
   Allows the RC Monorail Freighter to cross through another monorail track. The RC Monorail glides easily through the crossing from any direction. Perfect for figure-eights! Designed to work with all Monorail System products.
 archiveLinks:

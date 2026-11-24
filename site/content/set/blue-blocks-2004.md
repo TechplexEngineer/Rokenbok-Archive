@@ -1,6 +1,6 @@
 ---
 title: Blue Blocks
-year: 2003
+year: "2003"
 description: >-
   Need a few extra blocks for your build?
   Bag contains 72 blue blocks. For use with any Rokenbok build.

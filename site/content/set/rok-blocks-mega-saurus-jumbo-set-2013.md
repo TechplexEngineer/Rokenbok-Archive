@@ -1,6 +1,6 @@
 ---
 title: ROK Blocks Mega-saurus Jumbo Set
-year: 2013
+year: "2013"
 description: >-
   ROAR! Unleash your imagination and travel back in time when dinosaur walked the earth. The Mega-saurus Jumbo Set is an advanced ROK Blocks set for every dinosaur loving child. You and your child can explore the world of dinosaurs by building two of history's most famous dinosaurs.
 archiveLinks:

@@ -1,6 +1,6 @@
 ---
 title: Monorail Mania Complete Action Set (rerelease)
-year: 2013
+year: "2013"
 description: >-
   This modern twist on a beloved classic brings a whole new level of fun to your family. Your little engineer will delight in taking control of the Monorail's power dump bed that moves from side to side for easy loading and unloading action.
 archiveLinks:

@@ -1,6 +1,6 @@
 ---
 title: Decks II
-year: 2004
+year: "2004"
 description: >-
   Need more deck plates?
   Bag contains 3 Blue & 3 Gray ½ Deck Plates, 3 Blue and 3 Gray Full Deck Plates, 2 Blue & 2 Gray Curved Deck Plates.

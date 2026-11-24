@@ -1,6 +1,6 @@
 ---
 title: Walls
-year: 1998
+year: "1998"
 description: >-
   Build 4 individual wall sections with windows and doors. Doors really open and close. Includes 33 pieces.
 archiveLinks:

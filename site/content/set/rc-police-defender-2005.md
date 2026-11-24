@@ -1,6 +1,6 @@
 ---
 title: RC Police Defender
-year: 2005
+year: "2005"
 description: >-
   Police Defenders are on guard to keep the peace in the Rokenbok World. They practice their skills playing capture the flag, and it’s a blast! Knock off your opponent’s flags by bumping into them, or better yet, roll your opponent over with your defender ram.
 archiveLinks:

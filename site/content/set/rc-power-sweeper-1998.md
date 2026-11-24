@@ -1,6 +1,6 @@
 ---
 title: RC Power Sweeper
-year: 1998
+year: "1998"
 description: >-
   Features front power sweeper that can pick up and unload up to 40 Rokenbok balls. The Sweeper tank raises and lowers, and the tailgate opens automatically. Requires Start Set and three AA batteries.
 archiveLinks:

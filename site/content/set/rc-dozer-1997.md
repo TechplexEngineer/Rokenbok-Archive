@@ -1,6 +1,6 @@
 ---
 title: RC Dozer
-year: 1997
+year: "1997"
 description: >-
   Front, vertical blade pushes and lifts! It is the most powerful and agile vehicle in the fleet. Requires Start Set and three AA batteries.
 archiveLinks:

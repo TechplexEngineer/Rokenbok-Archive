@@ -1,6 +1,6 @@
 ---
 title: ROK Block Adventures
-year: 2013
+year: "2013"
 description: >-
   The ROK Block Adventures preschool and early primary curriculum kit combines advanced construction toy manipulatives with bright, engaging play mats and building plan sheets. ROK Block Adventures is not only fun - it is thoughtfully designed to make your early childhood classroom the ideal learning environment for the development of academic readiness and STEAM thinking skills.
 archiveLinks:

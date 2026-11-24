@@ -1,6 +1,6 @@
 ---
 title: Metropolitan Workers
-year: 1999
+year: "1999"
 description: >-
   Set includes an office worker, a mechanic, and a driver. Plus, all of their new accessories - a computer, printer/fax, workbench and more! Includes 12 pieces.
 archiveLinks:

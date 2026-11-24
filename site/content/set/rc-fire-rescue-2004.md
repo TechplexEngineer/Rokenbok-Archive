@@ -1,6 +1,6 @@
 ---
 title: RC Fire & Rescue
-year: 2004
+year: "2004"
 description: >-
   You take control as Rokenbok Fire & Rescue rushes down the slide and quickly bursts through the Firehouse doors. You are on your way to save the day! Your RC Fire & Rescue Vehicle comes with a working rescue claw and arm that flips vehicles upright.
 archiveLinks:

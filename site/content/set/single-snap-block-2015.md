@@ -1,6 +1,6 @@
 ---
 title: Single Snap Block
-year: 2015
+year: "2015"
 description: >-
   This is recommended as a spare parts set for young engineers who want to add more dimension to their systems. Typically used to replace lost or broken pieces.
 archiveLinks:

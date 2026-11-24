@@ -22,7 +22,7 @@ images:
 thumb: /img/sets/04129_young_engineer_ss_1.jpg
 categories:
   - Start Set (Rok Star)
-year: 2015
+year: "2015"
 description: Inspire your young engineer with this flexible, powerful collection
   of Rokenbok building elements and remote control robotics. This large
   collection will provide an endless stream of inventions - powered, remote

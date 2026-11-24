@@ -1,6 +1,6 @@
 ---
 title: Control Pad
-year: 1997
+year: "1997"
 description: >-
   The Rokenbok Control Pad allows a player to control up to 8 Rokenbok RC vehicles with the easy function and precision control buttons.
 archiveLinks:

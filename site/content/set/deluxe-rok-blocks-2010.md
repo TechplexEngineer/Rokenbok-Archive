@@ -1,6 +1,6 @@
 ---
 title: Deluxe ROK Blocks
-year: 2010
+year: "2010"
 description: >-
   Build bigger and better models with the Deluxe ROK Blocks building set.  This set includes arch blocks for creating curves and angles, and more regular Rokenbok building pieces.
 archiveLinks:

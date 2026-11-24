@@ -1,6 +1,6 @@
 ---
 title: RC Skip Track
-year: 1999
+year: "1999"
 description: >-
   The giant rear pivoting, extended reach bucket makes RC Skip Track the highest dumping vehicle in the line. It's a great addition for any Rokenbok system. Includes a Rokenbok Metropolitan driver. Includes 12 pieces. Requires Start Set and three AA batteries.
 

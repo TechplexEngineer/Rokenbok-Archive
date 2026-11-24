@@ -1,6 +1,6 @@
 ---
 title: RC Monorail Freighter
-year: 2000
+year: "2000"
 description: >-
   This first-of-its-kind vehicle glides across a track created from standard Rokenbok beam and block building pieces. Drives forward and backward and up and down rolling hills. Trailer bed moves from side to side for automatic loading and unloading.
 archiveLinks:

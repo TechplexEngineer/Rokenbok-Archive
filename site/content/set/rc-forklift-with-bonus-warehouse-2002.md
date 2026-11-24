@@ -1,6 +1,6 @@
 ---
 title: RC Forklift with Bonus Warehouse
-year: 2002
+year: "2002"
 description: >-
   Drive, stack, load, & sort with Rokenbok's newest robotic vehicle, the RC Forklift! This incredibly functional and life-like vehicle also comes with a FREE BONUS WAREHOUSE - enough building pieces to create your own Rack'em & Stack'em Warehouse.
 archiveLinks:

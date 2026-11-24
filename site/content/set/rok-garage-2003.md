@@ -1,6 +1,6 @@
 ---
 title: Rok Garage
-year: 2003
+year: "2003"
 description: >-
   Need a place to park? Swing around, back in, or drive up to your new ROK Garage. It's big enough! Wider than your bumper & taller than any wheeled vehicle so it fits all ROK Vehicles. This garage includes sturdy beams & a high roof to cover your vehicle & protect it against the elements. Makes parking fast and easy. Build a ROK Garage for each of your Rokenbok Vehicles!
 archiveLinks:

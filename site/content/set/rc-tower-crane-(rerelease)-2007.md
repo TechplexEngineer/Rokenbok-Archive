@@ -1,6 +1,6 @@
 ---
 title: RC Tower Crane 55 (rerelease)
-year: 2007
+year: "2007"
 description: >-
   Build the RC Tower Crane into your Rokenbok World by simply snapping the base of the Crane into standard Rokenbok beams and blocks! Moves large payloads up, over and around a 360° radius.
 archiveLinks:

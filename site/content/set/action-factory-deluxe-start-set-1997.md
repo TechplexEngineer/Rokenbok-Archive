@@ -1,6 +1,6 @@
 ---
 title: Action Factory Deluxe Start Set
-year: 1997
+year: "1997"
 description: >-
   Build, drive, and control! The Action Factory includes 211 building pieces, accessories, the Action Sorter and the Motorized Conveyor.
 archiveLinks:

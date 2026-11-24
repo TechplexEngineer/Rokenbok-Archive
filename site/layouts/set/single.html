@@ -1,16 +1,12 @@
 {{ define "main" }}
 
-{{ $partCount := 0 }}
+{{ $partCount := newScratch }}
+{{ $partCount.Set "value" 0 }}
 
 {{ range .Params.parts }}
   {{if not (isset . "nocount") }}
-    {{ $partCount = (add $partCount (int .qty)) }}
+    {{ $partCount.Set "value" (add ($partCount.Get "value") (int .qty)) }}
   {{end}}
-{{ end }}
-
-{{ $uniquePartCount := 0 }}
-{{ if isset .Params "parts" }}
-  {{ $uniquePartCount = len .Params.parts }}
 {{ end }}
 
   <div class="container">
@@ -24,7 +20,7 @@
         {{end}}
         &mdash;
 
-        <span title="Part Count">{{ $partCount }}</span>
+        <span title="Part Count">{{ $partCount.Get "value" }}</span>
       </div>
       <div class="col text-end">
         {{range .Params.skus}}
@@ -99,7 +95,7 @@
 
 
     <h4>Part List
-      <small> ({{ $partCount }} parts, with {{ $uniquePartCount }} unique parts) </small></h4>
+      <small> ({{ $partCount.Get "value" }} parts, with {{ if isset .Params "parts" }}{{ len .Params.parts }}{{ else }}0{{ end }} unique parts) </small></h4>
     <table class="datatable table table-striped table-bordered">
       <thead>
         <tr>

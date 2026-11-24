@@ -1,6 +1,6 @@
 ---
 title: The ROK Blocks Big Idea Book
-year: 2013
+year: "2013"
 description: >-
   You can build just about anything with ROK Blocks! We created the ROK Blocks Big Idea Book to help jump start imaginations and inspire your child's next creation. This 24 page book features simple, moderate, and more challenging building plans that can be enjoyed by both young and old. The Big Idea Book shows how to build flying machines, trucks, trains, dragons, dinosaurs, cameras, Jeeps, even a giant T-Rex!
 archiveLinks:

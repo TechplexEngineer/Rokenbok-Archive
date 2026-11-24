@@ -1,6 +1,6 @@
 ---
 title: Power ROK-Lift
-year: 2002
+year: "2002"
 description: >-
   With a simple bump of your vehicle, the ROK-Lift will hoist your "cargo" to the top where it is automatically unloaded. Balls roll and tumble through the crazy, zig-zag chute system and spill into the giant ROK Slide at the bottom! 110 building pieces. Requires 3 AA batteries (not included).
 archiveLinks:

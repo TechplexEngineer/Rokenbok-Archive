@@ -1,6 +1,6 @@
 ---
 title: Forklift Replacement Kit
-year: 2009
+year: "2009"
 description: >-
   Enables the Forklift to pick and place boxes and pallets. Set includes one red Forklift face and 2 snap in grey forks.
 archiveLinks:

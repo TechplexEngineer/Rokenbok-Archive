@@ -1,6 +1,6 @@
 ---
 title: Play Table
-year: 2000
+year: "2000"
 description: >-
   A handcrafted table designed specifically for the Rokenbok System. The rugged tabletop border, constructed of Rokenbok building pieces, will allow you to extend off the table's surface by cantilevering monorail tracks or roadways.
 archiveLinks:

@@ -1,6 +1,6 @@
 ---
 title: Small Curved Beams 
-year: 2015
+year: "2015"
 description: >-
   This set is recommend for builders who want to add more dimension to their systems. Combine this set with gear teeth, a couple of blocks and build a gear.
 archiveLinks:

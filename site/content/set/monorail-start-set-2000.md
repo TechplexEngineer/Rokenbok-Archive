@@ -1,6 +1,6 @@
 ---
 title: Monorail Start Set
-year: 2000
+year: "2000"
 description: >-
   The newest and most exciting way to get started with Rokenbok, this Start Set reinterprets the train sets of yesteryear with the cutting-edge technology of today. Integrate classic building and RC vehicles to form an animated cityscape of amazing interactivity and limitless expandability.
 archiveLinks:

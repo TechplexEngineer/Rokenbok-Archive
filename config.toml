@@ -1,2 +1,5 @@
 languageCode = "en-us"
 title = "RokLink - Connecting you to Rokenbok History and Projects"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]

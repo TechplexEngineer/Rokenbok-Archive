@@ -1,6 +1,6 @@
 ---
 title: Monorail Metropolis Start Set
-year: 2007
+year: "2007"
 description: >-
   The sleek, new RC Monorail is pulling in to unload. Deliveries are constantly arriving in your Metropolis. Outfitted with a powered Engine unit coupled to a Dump Car with automatic unloading capability on either side of the track, the Monorail can get your ROKs to their destination in no time.
 archiveLinks:

@@ -1,6 +1,6 @@
 ---
 title: Curved Beams
-year: 2003
+year: "2003"
 description: >-
   Add curves to your Rokenbok world!
   Bag contains 12 curved grey beams. For use with any Rokenbok build. 12 pieces total.

@@ -1,6 +1,6 @@
 ---
 title: C-Beams (Solid side beams)
-year: 2003
+year: "2003"
 description: >-
   Need a few extra C-Beams?
   Here’s your final chance to get a hold of a few more C-beams. This unique building beam features 2 solid sides which are great for making walls or a flat driving surface. Bag contains 24 Full C-Beams.

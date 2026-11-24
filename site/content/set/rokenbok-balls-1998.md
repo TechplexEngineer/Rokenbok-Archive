@@ -1,6 +1,6 @@
 ---
 title: Rokenbok Balls
-year: 1998
+year: "1998"
 description: >-
   Is it possible to ever have enough ROKs?
   100 Rokenbok balls. 50 large blue balls and 50 small red balls.

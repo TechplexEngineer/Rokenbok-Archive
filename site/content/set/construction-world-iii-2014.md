@@ -1,6 +1,6 @@
 ---
 title: Construction World III
-year: 2014
+year: "2014"
 description: >-
   Max out your Rokenbok adventure with this giant building set and build the Grand Central Station or Rokenbok Suspension Bridge. Make the largest buildings ever! With 485 building pieces, this set includes roadways, chutes, railway tracks, and cool architectural elements.
 archiveLinks:

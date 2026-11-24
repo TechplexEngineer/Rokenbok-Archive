@@ -1,6 +1,6 @@
 ---
 title: Radio Control Center with Control Pad
-year: 2007
+year: "2007"
 description: >-
   Create your own Start Set!
   Includes a Radio Control Center, Control Pad and eight Vehicle keys. Add and Rokenbok RC Vehicle and away you go. One 9-volt battery required.

@@ -1,6 +1,6 @@
 ---
 title: RC Elevator
-year: 2000
+year: "2000"
 description: >-
   You've never seen anything like it! Take your Vehicles to dizzying heights by using standard Beams and Blocks to create an elevator shaft in your Rokenbok World. Then use your Control Pad to raise and lower your vehicles from one floor to the next.
 archiveLinks:

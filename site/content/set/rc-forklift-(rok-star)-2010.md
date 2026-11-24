@@ -1,6 +1,6 @@
 ---
 title: RC Forklift (Rok Star)
-year: 2010
+year: "2010"
 description: >-
   It may be a toy forklift, but it’s a real workhorse designed to move large amounts of cargo with speed and precision. Maneuver in tight spaces using your ROK Star Controller (not included). Operate the forks while driving. Pick up pallets. Place crates. Lift bin boxes. Stack beams. Then, reach the highest pallet rack in your warehouse while the pivoting lift mechanism keeps your load balanced.
 archiveLinks:

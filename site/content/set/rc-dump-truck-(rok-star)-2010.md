@@ -1,6 +1,6 @@
 ---
 title: RC Dump Truck (Rok Star)
-year: 2010
+year: "2010"
 description: >-
   The Remote Control Dump Truck is especially easy to operate because it loads and dumps from the front.  Effortlessly guide the Dump Truck into a loading dock to pick up cargo, or pull right up to a Conveyor to dump cargo.  Even the most advanced Rokenbokers will want a Dump Truck as part of their Rokenbok world, because of its huge capacity for moving cargo.
 archiveLinks:

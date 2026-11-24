@@ -1,6 +1,6 @@
 ---
 title: Inventor's Tool Box
-year: 2006
+year: "2006"
 description: >-
   The Inventor’s Tool Box is an enormous new construction set that contains everything a master Rokenbok builder needs to create the ultimate aerial tramway, a vehicle-powered bascule bridge and a personnel elevator, all at the same time! The Inventor’s Tool Box is a 618-piece assortment of everything a Rokenbok inventor needs to construct the most challenging and imposing build yet!
 archiveLinks:

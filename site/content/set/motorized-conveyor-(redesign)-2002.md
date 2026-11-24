@@ -1,6 +1,6 @@
 ---
 title: Motorized Conveyor (redesign)
-year: 2002
+year: "2002"
 description: >-
   Conveyor automatically starts when you dump ROKs (balls) in and then automatically stops once the ROKs are gone! Conveyor no longer needs to be plugged in, it runs on batteries so you can put it anywhere and have as many as you want in your world.
 archiveLinks:

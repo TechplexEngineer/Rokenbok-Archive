@@ -1,6 +1,6 @@
 ---
 title: Chutes & Hoppers
-year: 1997
+year: "1997"
 description: >-
   Chute, hopper and bin box pieces build spiraling and zig-zag chute systems. Hoppers distribute Rokenbok balls to chutes and bin boxes collect them. Includes 63 pieces.
   (Beams and blocks not included.)

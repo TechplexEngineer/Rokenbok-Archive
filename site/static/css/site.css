@@ -92,6 +92,14 @@ a:hover {
   margin-top: auto;
 }
 
+.search-page {
+  max-width: 960px;
+}
+
+.search-page .list-group-item h2 {
+  color: #212529;
+}
+
 @media (max-width: 767.98px) {
   .jumbotron {
     min-height: 220px;

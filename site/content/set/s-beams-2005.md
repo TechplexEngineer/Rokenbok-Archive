@@ -1,6 +1,6 @@
 ---
 title: S-Beams
-year: 2005
+year: "2005"
 description: >-
   Need a few extra beams for your build?
   Bag contains 12 black S-Beams For use with any Rokenbok build. 12 piece total.

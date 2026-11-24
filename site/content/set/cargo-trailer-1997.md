@@ -1,6 +1,6 @@
 ---
 title: Cargo Trailer
-year: 1997
+year: "1997"
 description: >-
   Cargo Trailer and vehicle transporter all in one! Includes two side rails for transporting cargo and hidden ramps that pull out for vehicle transportation. Hooks up to all Rokenbok RC vehicles through auto-hitch.
 archiveLinks:

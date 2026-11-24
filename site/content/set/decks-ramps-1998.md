@@ -1,6 +1,6 @@
 ---
 title: Ramps & Decks
-year: 1998
+year: "1998"
 description: >-
   Extend your Roadways and increase your driving space. Includes new half deck plates for more flexible creative building. Includes 24 pieces.
 archiveLinks:

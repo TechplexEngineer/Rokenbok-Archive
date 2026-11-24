@@ -1,6 +1,6 @@
 ---
 title: Small Curved Beams and Curved Windows
-year: 2011
+year: "2011"
 description: >-
   These newly released Rokenbok building pieces are a great addition to any growing Rokenbok world. Pretty soon your Rokenbok builder will be using these curved windows and beams to construct luxury condos with world class views, a super hero headquarters, or a really neat storage silo. Get creative, the sky is the limit!
 archiveLinks:

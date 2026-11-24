@@ -1,6 +1,6 @@
 ---
 title: King of the Rok Competition Arena
-year: 2003
+year: "2003"
 description: >-
   You have constructed the greatest competition arena in Rokenbok history. Head up the arena ramp. Plan your strategy. And go! It's competition time! Face off against the ROK world's greatest challengers! It's head-to-head non-stop action!
 archiveLinks:

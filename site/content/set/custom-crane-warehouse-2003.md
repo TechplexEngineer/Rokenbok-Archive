@@ -1,6 +1,6 @@
 ---
 title: Custom Crane Warehouse
-year: 2003
+year: "2003"
 description: >-
   This carefully designed building and RC Tower Crane combination moves and stores all kinds of building materials. The RC Tower Crane features 4 different working attachments and works great with the RC Loader, RC Forklift, and RC TransGripper.
 archiveLinks:

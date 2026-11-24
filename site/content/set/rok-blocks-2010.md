@@ -1,6 +1,6 @@
 ---
 title: ROK Blocks
-year: 2010
+year: "2010"
 description: >-
   Here’s the revolutionary building block that lets beginning builders make their own ideas come to life.  ROK Blocks let children build three-dimensional working construction models – trucks, cars, planes, helicopters, boats, and more.  The blocks go together for playtime, and come apart easily for more building.  Carefully combined with Rokenbok building pieces like wheels, hinges and axles, this set represents countless hours of creative construction fun.
 archiveLinks:

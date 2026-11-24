@@ -1,6 +1,6 @@
 ---
 title: Building Value Pack
-year: 2000
+year: "2000"
 description: >-
   This 158-piece set offers a balanced combination of beams, blocks, ramps, and decks to expand your current Rokenbok System at an economic price. New curved beams and curved deck plates are included.
 archiveLinks:

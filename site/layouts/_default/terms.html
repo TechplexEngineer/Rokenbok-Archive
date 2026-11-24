@@ -5,7 +5,7 @@
 	<div class="container">
 		<ul>
 			{{ range .Data.Terms.Alphabetical }}
-				<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> ({{ .Count }})</li>
+				<li><a href="{{ printf "/%s/%s" $.Data.Plural .Name | urlize }}">{{ .Name }}</a> ({{ .Count }})</li>
 			{{ end }}
 		</ul>
 	</div>

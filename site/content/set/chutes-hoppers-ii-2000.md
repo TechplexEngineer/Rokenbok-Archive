@@ -1,6 +1,6 @@
 ---
 title: Chutes & Hoppers II
-year: 2000
+year: "2000"
 description: >-
   This exciting 79-piece set introduces the new curved and sorting chutes allow you to build elaborate chute systems that will take your Rokenbok balls in, out, and around your Rokenbok World.
 archiveLinks:

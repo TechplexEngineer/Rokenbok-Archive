@@ -1,6 +1,6 @@
 ---
 title: Pump Station Start Set
-year: 1999
+year: "1999"
 description: >-
   Scoop up balls into your Skip Track and drive up to the hopper. Now with a simple bump and dump...drop your load, and be on your way. It's that easy! And that's only the beginning.
 archiveLinks:

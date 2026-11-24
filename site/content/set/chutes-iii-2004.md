@@ -1,6 +1,6 @@
 ---
 title: Chutes III
-year: 2004
+year: "2004"
 description: >-
   Add more action to your world with this 83-piece chute set. Your Chutes & Hoppers set includes 1 Hopper, 8 Straight Chutes, 10 Right & 10 Left Corner Chutes, 2 Bin Boxes, 3 Outside & 3 Inside Curved Chutes, 5 End Chutes, 1 Sorting Chute and 20 Rokenbok Red & Blue balls.
 archiveLinks:
