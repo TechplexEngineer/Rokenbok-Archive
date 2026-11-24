@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-  {{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" .Params.title "subtitle" .Params.subtitle ) }}
+  {{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" .Params.title "subtitle" (printf "%s (%d parts)" .Params.subtitle (len .Pages)) ) }}
 
   <!-- $PartSetDict
   {
