@@ -1,6 +1,6 @@
 ---
 title: ROK Block Dragons & Dinos
-year: 2013
+year: "2013"
 description: >-
   Build your own Dragon and watch him swoop down from the sky and blow fire from his snout! He’s hungry and those ROK balls look mighty tasty! As kids tell stories and hone their verbal skills they will also be improving hand eye coordination and cognitive development through block play.
 archiveLinks:

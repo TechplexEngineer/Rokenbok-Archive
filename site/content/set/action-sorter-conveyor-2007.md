@@ -1,6 +1,6 @@
 ---
 title: Action Sorter & Conveyor (rerelease)
-year: 2007
+year: "2007"
 description: >-
   Classic "Action Factory" From Our Very First Start Set!
   Motorized Conveyor automatically turns-on to deliver ROKs to the Action Sorter, where they can be diverted in four different directions for reloading or storage. Three AA batteries required.

@@ -1,6 +1,6 @@
 ---
 title: Down-a-Vator
-year: 1998
+year: "1998"
 description: >-
   The Down-A-Vator uses pneumatic power to automatically lower your Rokenbok vehicle. Drive any vehicle onto the Down-A-Vator platform for a quick ride down one level. Drive off the platform, and the Down-A-Vator returns to the up position.
 archiveLinks:

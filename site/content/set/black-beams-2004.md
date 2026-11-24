@@ -1,6 +1,6 @@
 ---
 title: Black Beams
-year: 2003
+year: "2003"
 description: >-
   Need a few extra beams for your build?
   Bag contains 24 half black beams and 24 full black beams. For use with any Rokenbok build. 48 piece total.

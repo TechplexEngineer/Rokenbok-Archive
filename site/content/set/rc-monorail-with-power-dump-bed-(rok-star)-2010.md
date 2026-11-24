@@ -1,6 +1,6 @@
 ---
 title: RC Monorail with Power Dump Bed (Rok Star)
-year: 2010
+year: "2010"
 description: >-
   The Monorail is our easiest vehicle to drive, and offers multiple levels of function and challenge for even the most advanced Rokenboker. This unique vehicle glides across a track created from standard Rokenbok building pieces!  Add rail switches and crossings, design a station or depot, or build tall trestles and drive your toy Monorail through multilevel Rokenbok worlds.
 archiveLinks:

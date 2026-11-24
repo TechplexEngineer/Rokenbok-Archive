@@ -1,6 +1,6 @@
 ---
 title: Service Center
-year: 1997
+year: "1997"
 description: >-
   Includes 89 building pieces and accessories to build a drive-through Service Center and other single or 2-story buildings. Building pieces include beams, blocks, wall sections, windows, peaked roofs, a Rokenbok construction man and more.
 archiveLinks:

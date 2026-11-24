@@ -1,6 +1,6 @@
 ---
 title: RC Dozer with Bonus Recycling Center
-year: 2003
+year: "2003"
 description: >-
   Rev up your RC Dozer & head over to your new Recycling Center. Dump your payload into the sorting station, watch as the balls and barrels are separated into their own storage quarries. When you're ready, use your Dozer to push the ROK balls up, over & into a quarry, hopper or another RC Vehicle.
 archiveLinks:

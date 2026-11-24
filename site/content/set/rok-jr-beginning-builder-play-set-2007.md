@@ -1,6 +1,6 @@
 ---
 title: Rok Jr. Beginning Builder Play Set
-year: 2007
+year: "2007"
 description: >-
   ROK Jr.'s Beginning Builder features larger, press-fit blocks and roadway pieces for easy assembly by four and five year olds. Beginning Builder is action-packed fun with driving, loading and unloading capabilities and an all new, fully featured front-loading Dump Truck!
 archiveLinks:

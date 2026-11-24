@@ -1,6 +1,6 @@
 ---
 title: RC Loader (rerelease) [orange]
-year: 2006
+year: "2006"
 description: >-
   Scoops, Transports & Dumps Balls!
   When you've got to move a mountain of ROKs (balls) fast, this is your workhorse. Scoop a bucket-load of ROKs and lift them in to the bed.

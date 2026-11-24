@@ -1,6 +1,6 @@
 ---
 title: Rail Station
-year: 2001
+year: "2001"
 description: >-
   Build a busy transportation hub with a ticketing office, waiting area and loading platform! The Rail Station is the perfect stopping point for all freight travelling aboard the RC Monorail Freighter (sold separately).
 archiveLinks:

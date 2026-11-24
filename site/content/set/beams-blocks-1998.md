@@ -1,6 +1,6 @@
 ---
 title: Beams & Blocks
-year: 1998
+year: "1998"
 description: >-
   The cornerstones of the Rokenbok building system. Includes 161 pieces.
 archiveLinks:

@@ -1,6 +1,6 @@
 ---
 title: Building Decorations
-year: 1998
+year: "1998"
 description: >-
   Includes 20 fun snap fit building pieces that add life-like construction site details.
 archiveLinks:

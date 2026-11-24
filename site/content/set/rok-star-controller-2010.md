@@ -1,6 +1,6 @@
 ---
 title: ROK Star Controller
-year: 2010
+year: "2010"
 description: >-
   ROK Star is wireless, multi-player, multi-vehicle remote control.  The ROK Star Controller not only lets you control any number of Rokenbok machines, it lets you switch on the go.  Just point and control.  What’s more, everyone can play.  Add as many ROK Star controllers and Rokenbok machines as you want.  Designed to be easy enough for a preschooler and yet appeal to our most advanced Rokenbokers, ROK Star is at the heart of Rokenbok interactive play.
 

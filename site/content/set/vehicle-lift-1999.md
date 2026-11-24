@@ -1,6 +1,6 @@
 ---
 title: Vehicle Lift
-year: 1999
+year: "1999"
 description: >-
   Drive onto the Lift and let the power of your Rokenbok vehicle automatically raise the vehicle into the air for easy maintenance. A Rokenbok mechanic, workbench and garage accessories are included. Your Rokenbok vehicle is all the power you'll need. No batteries are required!
 archiveLinks:

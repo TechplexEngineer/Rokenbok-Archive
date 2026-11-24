@@ -1,6 +1,6 @@
 ---
 title: Snap-on Trailer Hitch
-year: 2015
+year: "2015"
 description: >-
   This is recommended as a spare parts set for young engineers who want to expand their systems. Typically used to replace lost or broken pieces.
 archiveLinks:

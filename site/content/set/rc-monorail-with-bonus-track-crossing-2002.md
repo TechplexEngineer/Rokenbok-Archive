@@ -1,6 +1,6 @@
 ---
 title: RC Monorail with Bonus Track & Crossing
-year: 2002
+year: "2002"
 description: >-
   Pick up and deliver ROK Payloads throughout your world with the Monorail's automated side-to-side dumping trailer bed! The RC Monorail can do it all! This first-of-its-kind vehicle glides across a track created from standard Rokenbok beam and block building pieces.
 archiveLinks:

@@ -1,6 +1,6 @@
 ---
 title: Motorized Conveyor (battery 2) [brown]
-year: 2007
+year: "2007"
 description: >-
   This motorized conveyor automatically starts when you dump ROKs (balls) in and then automatically stops once the ROKs are gone! And this latest version of our Conveyor no longer needs to be plugged in - it runs on batteries so you can put it anywhere and have as many as you want in your world.
 archiveLinks:

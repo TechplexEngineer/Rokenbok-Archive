@@ -1,6 +1,6 @@
 ---
 title: Braces & Supports
-year: 1998
+year: "1998"
 description: >-
   Includes 46 building pieces that add strength and stability to your building. Can also be used for creative building detail.
 archiveLinks:

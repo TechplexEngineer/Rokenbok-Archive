@@ -1,6 +1,6 @@
 ---
 title: ROK Blocks Robot
-year: 2013
+year: "2013"
 description: >-
   Robots are all the buzz these days and are an important installment in our modern day society. While having your child program their own robot might not be a reality (at the moment), get them started with building ROK Block Robots! Tap into their creativity and build your own storyline around your new robot. Does your ROKBot fight evil or destroy the town?
 archiveLinks:

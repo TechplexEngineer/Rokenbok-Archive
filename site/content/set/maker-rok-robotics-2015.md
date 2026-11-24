@@ -1,6 +1,6 @@
 ---
 title: Maker ROK Robotics
-year: 2015
+year: "2015"
 description: >-
   Meet the Rokenbok Maker ROK-Bot. It is a versatile, mobile building platform that makes building robots and mechanical systems easy, fun, and educational. The Maker ROK-Bot is fully compatible with every element in the Rokenbok engineering system. That means there are thousands of different robots waiting for kids to design and build.
 archiveLinks:

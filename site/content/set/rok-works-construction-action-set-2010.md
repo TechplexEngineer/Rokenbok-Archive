@@ -1,6 +1,6 @@
 ---
 title: ROK Works Construction & Action Set
-year: 2010
+year: "2010"
 description: >-
   ROK Works may be the best way to start your Rokenbok world. It has everything you need to build a vibrant, interactive construction site. Put the remote control Loader to work with the included ROK Star Controller. Steer it left and right. Spin it. Back it up. Scoop, haul, and dump. Then dump a load of ROK balls into the Motorized Conveyor and watch it come to life, automatically. ROKs are lifted into a chute system where they are sorted and stored in spring-loaded dumping bins. All ready for the next pick-up!
 archiveLinks:

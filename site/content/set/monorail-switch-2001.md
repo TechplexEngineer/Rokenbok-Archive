@@ -1,6 +1,6 @@
 ---
 title: Monorail Switch
-year: 2001
+year: "2001"
 description: >-
   Allows you to split your single monorail track into two tracks or merge two tracks into one! Anti-Derailment feature keeps your RC Monorail on track even if you forget to flip the switch. Designed to work with all Monorail System products.
 archiveLinks:

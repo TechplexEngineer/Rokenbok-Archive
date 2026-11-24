@@ -1,6 +1,6 @@
 ---
 title: Remote Control Dozer with Recycling Center (Rok Star)
-year: 2011
+year: "2011"
 description: >-
   Introducing the newest machine in the ROK Star fleet, the Remote Control Dozer. This rugged ROK Star machine is ready for action and isn't afraid to push its weight around!  It comes with the Rokenbok Recycling Center. Just push your payload through the sorting station and watch as the balls and barrels are automatically separated into their own storage quarries. When you're sorting is complete, use your Dozer to push the ROK balls up the loading ramp and into your Conveyor.
 archiveLinks:

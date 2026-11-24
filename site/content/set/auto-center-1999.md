@@ -1,6 +1,6 @@
 ---
 title: Auto Center
-year: 1999
+year: "1999"
 description: >-
   Drive your vehicle through the garage doors and into the work area
   of the Auto Center. The Rokenbok mechanic is available to service your

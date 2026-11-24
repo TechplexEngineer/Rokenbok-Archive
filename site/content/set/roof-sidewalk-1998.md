@@ -1,6 +1,6 @@
 ---
 title: Roof & Sidewalk
-year: 1998
+year: "1998"
 description: >-
   Complete a building structure with these peaked roof, window and sidewalk building pieces. Includes 8 pieces.
 archiveLinks:

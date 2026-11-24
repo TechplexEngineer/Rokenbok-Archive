@@ -1,6 +1,6 @@
 ---
 title: Motorized Conveyor (battery 1)
-year: 2006
+year: "2006"
 description: >-
   One of our favorite Action Accessories. This motorized conveyor automatically starts when you dump ROKs (balls) in and then automatically stops once the ROKs are gone! And this latest version of our Conveyor no longer needs to be plugged in - it runs on batteries so you can put it anywhere and have as many as you want in your world. Chain them together to move loads as high as you dare! Works with any Start Set and requires three AA batteries (not included).
 archiveLinks:

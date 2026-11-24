@@ -1,6 +1,6 @@
 ---
 title: Maker ROK Blocks
-year: 2015
+year: "2015"
 description: >-
   Announcing our brand new Maker ROK Blocks set that is perfect for kids that enjoy building and tinkering. Maker ROK Blocks is also part of our new line of Maker Series products designed to inspire a love of making and encourage budding engineers.
 archiveLinks:

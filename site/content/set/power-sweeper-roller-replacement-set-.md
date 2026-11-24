@@ -1,6 +1,6 @@
 ---
 title: Power Sweeper Roller Replacement Set
-year: 2005
+year: "2005"
 description: >-
   Set includes the roller shaft, foam and extra cap.
 archiveLinks:

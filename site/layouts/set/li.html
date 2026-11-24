@@ -9,13 +9,14 @@
 					&mdash;
 					<span title="Set Category">{{delimit .Params.categories ", "}}</span>
 					&mdash;
-					{{ $partCount := 0 }}
+					{{ $partCount := newScratch }}
+					{{ $partCount.Set "value" 0 }}
 
 					{{ range .Params.parts }}
-						{{ $partCount = (add $partCount (int .qty)) }}
+						{{ $partCount.Set "value" (add ($partCount.Get "value") (int .qty)) }}
 					{{ end }}
 
-					<span title="Part Count">{{ $partCount }}</span>
+					<span title="Part Count">{{ $partCount.Get "value" }}</span>
 				</span>
 				<span class="col text-end">{{ delimit .Params.skus ", " }}</span>
 			</h5>

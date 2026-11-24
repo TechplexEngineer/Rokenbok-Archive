@@ -1,6 +1,6 @@
 ---
 title: Blue Beams
-year: 2003
+year: "2003"
 description: >-
   Need a few extra beams for your build?
   Bag contains 24 half blue beams and 24 full blue beams. For use with any Rokenbok build. 48 piece total.

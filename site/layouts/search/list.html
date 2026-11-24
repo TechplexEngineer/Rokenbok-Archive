@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <div class="container search-page" data-search-page data-index-url="{{ "index.json" | relURL }}">
+    <h1>{{ .Title }}</h1>
+    <form class="search-form mb-4" role="search">
+      <label class="visually-hidden" for="site-search-input">Search the site</label>
+      <div class="input-group">
+        <input id="site-search-input" class="form-control" type="search" name="q" placeholder="Search the site" autocomplete="off">
+        <button class="btn btn-primary" type="submit">Search</button>
+      </div>
+    </form>
+
+    <p class="text-muted" data-search-status role="status" aria-live="polite">Loading search index…</p>
+    <div data-search-results></div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+  <script src="{{ "js/search.js" | relURL }}"></script>
+{{ end }}

@@ -1,6 +1,6 @@
 ---
 title: Maker ROK Gadgets
-year: 2014
+year: "2014"
 description: >-
   Maker ROK Gadgets will challenge kids to think about the way simple machines function through 3 hands-on builds: the ROK-A-Pult, ROK Racer, or ROK Grabber. Hands-on play is a great way to foster learning and give children a deeper understanding of the world around them.
 archiveLinks:

@@ -1,6 +1,6 @@
 ---
 title: RC Emergency Speedster
-year: 1998
+year: "1998"
 description: >-
   The fastest of all the Rokenbok RC vehicles. Rush to your emergency site with controllable flashing lights and siren. You turn lights and siren on or off. Includes barricades and cones to secure the area. Requires Start Set and three AA batteries.
 archiveLinks:

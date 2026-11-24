@@ -1,6 +1,6 @@
 ---
 title: Construction World
-year: 1997
+year: "1997"
 description: >-
   Building pieces include peaked roofs, beams, wall sections, windows, deck plates, ramps, girders, braces, flags, signs and more.
 archiveLinks:

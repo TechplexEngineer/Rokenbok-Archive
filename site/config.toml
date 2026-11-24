@@ -1,17 +1,5 @@
-baseurl = "/"
 languageCode = "en-us"
-languageLang = "en"
-title = "RokLink Database"
+title = "RokLink - Connecting you to Rokenbok History and Projects"
 
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details:
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS"]
-
-[taxonomies]
-  category = "categories"
-  year = "year"
-  sku = "skus"
-
-[params]
-  discordInvite = "https://discord.gg/5Wx9MT7"
+[outputs]
+home = ["HTML", "RSS", "JSON"]

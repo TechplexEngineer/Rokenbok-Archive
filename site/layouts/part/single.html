@@ -38,10 +38,8 @@
         <!-- for each set
           for each part
             if part.name matches any of this part names -->
-        {{ $myNames := slice ( .Title ) }}
-        {{ if isset .Params "othernames" }}
-          {{ $myNames = ( $myNames | append .Params.otherNames ) }}
-        {{ end }}
+        {{ $myNames := newScratch }}
+        {{ $myNames.Set "names" (slice .Title) }}
 
         <table class="datatable table table-striped table-bordered">
           <thead>
@@ -62,7 +60,7 @@
                 <!-- name of the part -->
                 {{ $name := .name }}
 
-                {{ if in $myNames $name }}
+                {{ if in ($myNames.Get "names") $name }}
                 <tr>
                   <td>
                     {{$page := index (where $.Site.RegularPages ".Title" "eq" $set) 0 }}

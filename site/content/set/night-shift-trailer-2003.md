@@ -1,6 +1,6 @@
 ---
 title: Night Shift Trailer
-year: 2003
+year: "2003"
 description: >-
   The Night Shift Trailer remotely hitches to any Rokenbok vehicle so you can take it anywhere in your ROK Works construction zone. Get the Night Shift Trailer because Rokenboker's never sleep!
 archiveLinks:

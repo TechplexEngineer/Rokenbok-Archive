@@ -1,6 +1,6 @@
 ---
 title: Motorized Conveyor
-year: 1997
+year: "1997"
 description: >-
   Real moving conveyor automatically starts and stops! This action conveyor is powered by the Rokenbok Command Deck. Requires Start Set.
 archiveLinks:

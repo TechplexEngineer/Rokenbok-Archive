@@ -1,6 +1,6 @@
 ---
 title: Piston Plant
-year: 1999
+year: "1999"
 description: >-
   Dump balls into the plant's overhead silo. Then, every time you drive under the pump wheel, powerful pistons go to work pumping and pushing balls through the plant and into the sorting quarry.
 archiveLinks:

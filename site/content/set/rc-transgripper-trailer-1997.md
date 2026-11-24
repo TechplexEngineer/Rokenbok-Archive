@@ -1,6 +1,6 @@
 ---
 title: RC Transgripper & Trailer
-year: 1997
+year: "1997"
 description: >-
   Features two front power forks that grip, lift and load. Also included is a Cargo Trailer with two side rails for transporting cargo and hidden ramps that pull out for vehicle transportation. Requires Start Set and three AA batteries.
 archiveLinks:

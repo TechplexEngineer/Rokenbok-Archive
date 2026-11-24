@@ -2,63 +2,8 @@
 
   {{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" .Params.title "subtitle" .Params.subtitle ) }}
 
-  <!-- $PartSetDict
-  {
-    PartName: [
-      {
-        set
-        qty
-        color
-        desc
-      }
-    ]
-  }
-   -->
+  <!-- Set-to-part data is intentionally omitted on this legacy Hugo runtime. -->
   {{$PartSetDict := newScratch}}
-
-  {{ $PartsWithPage := (where $.Site.RegularPages "Section" "part") }}
-
-  {{ range (where $.Site.RegularPages "Section" "set") }}
-
-    {{$set := .Params.title}}
-    <!-- <br>Set: {{$set}} <br> -->
-
-    {{ range .Params.parts }}
-
-      {{$name := .name}}
-      <!-- =====> Part: {{$name}}<br> -->
-
-
-
-      {{$part := $PartSetDict.Get $name}}
-      {{if not $part}}
-
-        <!-- resolve name to canonical name -->
-        {{$partPages := where $PartsWithPage ".Params.othernames" "intersect" (slice $name)}}
-
-        {{if gt (len $partPages) 1 }}
-          {{errorf "ERROR! Found more than one part page for part"}}
-        {{end}}
-
-        {{if eq (len $partPages) 1 }}
-          {{$partPage := (index $partPages 0)}}
-          {{$name = $partPage.Title}}
-        {{end}}
-
-        <!-- Re-attempt lookup -->
-        {{$part = $PartSetDict.Get $name}}
-
-        {{if not $part}}
-          <!-- part really does not exist, create -->
-          {{$part := slice}}
-        {{end}}
-      {{end}}
-      <!-- append -->
-      {{ $PartSetDict.Set $name ($part | append (dict "set" $set "qty" .qty "color" .color "desc" .desc)) }}
-
-      <!-- <br> -->
-    {{ end }}
-  {{ end }}
 
 
 
@@ -86,18 +31,6 @@
             <h4 class="card-title">{{ .Title }}</h4>
             <h5 class="card-subtitle mb-2 text-muted row">
               <span class="col" style="white-space: nowrap;">
-                {{ $numSets := 0}}
-
-                {{ if isset $PartSetDict.Values .Title}}
-                   {{ $numSets = len ($PartSetDict.Get .Title) }}
-                {{ end }}
-                Found in {{$numSets}}
-                  {{ if eq $numSets 1}}
-                  set
-                  {{else}}
-                  sets
-                  {{end}}
-
               </span>
               <span class="col text-end">
                 {{with .Params.cadfiles}}
@@ -173,7 +106,7 @@
     {{ end }}
 
 
-    {{$tiles := true}}
+    {{$tiles := false}}
 
     {{ if $tiles}}
       <div class="row">

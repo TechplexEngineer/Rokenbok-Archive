@@ -1,6 +1,6 @@
 ---
 title: Construction Worker
-year: 1998
+year: "1998"
 description: >-
   Includes one poseable Rokenbok Construction Worker with 5 accessories.
 archiveLinks:

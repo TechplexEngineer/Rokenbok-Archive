@@ -1,6 +1,6 @@
 ---
 title: Monorail Storage Depot
-year: 2003
+year: "2003"
 description: >-
   Build this awesome storage depot and freight yard. This is an excellent addition for your RC Monorail Freighter. You get a mountain of 180 pieces to expand your Monorail set.
 archiveLinks:

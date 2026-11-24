@@ -1,6 +1,6 @@
 ---
 title: Construction World II
-year: 2005
+year: "2005"
 description: >-
   This huge 400 piece building set has all the latest Rokenbok building components: ROK’N Roadways; S beams; curved beams; Super Slides. . . plus all the building basics like: beams and blocks; chutes and hoppers; roofs; braces, and a lot more. There is even the Rokenbok Water Tower, a super cool way to collect and guide ROKs all over the place!
 archiveLinks:

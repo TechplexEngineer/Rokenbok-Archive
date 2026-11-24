@@ -1,6 +1,6 @@
 ---
 title: ROK Block Trucks
-year: 2013
+year: "2013"
 description: >-
   QUICK! Send out the cherry picker! We need a Rokenbok resucue! Using the specially designed hinge blocks the lift arms can extend up and out at different angles and teach children about the power of simple machines.  Stage your own rescue and when you’re done, rebuild everything as a flatbed tow truck for a whole new adventure.
 archiveLinks:

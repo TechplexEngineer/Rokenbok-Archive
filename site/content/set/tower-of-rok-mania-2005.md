@@ -1,6 +1,6 @@
 ---
 title: Tower of Rok Mania
-year: 2005
+year: "2005"
 description: >-
   Maybe the coolest and most amazing Rokenbok building ever! To start the action, the included Power ROK Lift carries blue and red ROKs up this five story tower. Watch as the ROKs go spinning down Dual Spirals, in opposite directions!
 archiveLinks:

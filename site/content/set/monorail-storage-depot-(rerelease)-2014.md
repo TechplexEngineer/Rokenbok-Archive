@@ -1,6 +1,6 @@
 ---
 title: Monorail Storage Depot (rerelease)
-year: 2014
+year: "2014"
 description: >-
   Love your Monorail and want to expand the adventure? This wonderful add-on track and construction set expands your track layout and adds a storage depot, loading dock, monorail switch track, and monorail crossing!
 archiveLinks:

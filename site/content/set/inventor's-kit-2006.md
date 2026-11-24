@@ -1,6 +1,6 @@
 ---
 title: Inventor's Kit
-year: 2006
+year: "2006"
 description: >-
   The Inventor’s Kit, with 161 building pieces, is perfect for advanced Rokenbok engineers to extend the fun and play of any existing set. This collection of building components enables expert builders to improvise with diagonal construction using 30 and 60 degree angle blocks, and to make articulating  machines with pulleys, hinges, swivel blocks, tow hooks, wheels and axles, and more.
 archiveLinks:

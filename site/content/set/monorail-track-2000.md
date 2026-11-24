@@ -1,6 +1,6 @@
 ---
 title: Monorail Track
-year: 2000
+year: "2000"
 description: >-
   Add this to your Monorail Start Set and design simple circles, ovals, figure-eights or tracks that go up and down and around. Create your own layouts or use those provided in the enclosed plan book.
 archiveLinks:

@@ -1,6 +1,6 @@
 ---
 title: Power Chutes Basic Start Set
-year: 1997
+year: "1997"
 description: >-
   Contains everything you need to start playing: the command deck, a control pad, a remote-controlled vehicle and a selection of components and accessories.
 archiveLinks:

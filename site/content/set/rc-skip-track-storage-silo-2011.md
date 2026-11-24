@@ -1,6 +1,6 @@
 ---
 title: Remote Control Skip Track & Storage Silo
-year: 2011
+year: "2011"
 description: >-
   The new ROK Star Skip Track is a rugged front loader, with a high reach bucket and special 'Bump & Dump' action for fast loading and unloading of payloads.   Just like a real Bob Cat, the Skip Track has skid steering and can spin around on its own axis.  Track drive means this tough little machine can climb the steepest hills, crawl over obstacles, and speed through rough terrain.
 archiveLinks:

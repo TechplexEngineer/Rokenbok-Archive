@@ -1,6 +1,6 @@
 ---
 title: RC Loader
-year: 1997
+year: "1997"
 description: >-
   Scoops, transports and dumps balls. Front bucket rises and dumps its load into the truck bed. Raise the truck bed to dump the balls. Requires Start Set and three AA batteries.
 archiveLinks:

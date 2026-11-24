@@ -50,7 +50,7 @@ images:
 thumb: /img/sets/thumb_rc_transgripper_trailer.jpg
 categories:
   - Vehicle (RC)
-year: 2007
+year: "2007"
 description: Features two front power forks that grip, lift and load. Also
   included is a Cargo Trailer with two side rails for transporting cargo and
   hidden ramps that pull out for vehicle transportation. Requires Start Set and

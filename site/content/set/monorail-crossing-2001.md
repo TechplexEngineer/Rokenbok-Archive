@@ -1,6 +1,6 @@
 ---
 title: Monorail Crossing
-year: 2001
+year: "2001"
 description: >-
   Now there's a way for vehicles to cross through monorail track! Swinging gate allows vehicles to cross through in either direction. Crossing automatically closes, allowing the Monorail Freighter to cruise by. Designed to work with all Monorail System products.
 archiveLinks:
